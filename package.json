@@ -1,5 +1,5 @@
 {
-  "name": "tlcgroup-capacitor-pdf-viewer",
+  "name": "tlc-capacitor-pdf-viewer",
   "version": "1.0.0",
   "description": "Native PDF viewer",
   "main": "dist/plugin.cjs.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "TlcgroupCapacitorPdfViewer.podspec"
+    "TlcCapacitorPdfViewer.podspec"
   ],
   "author": "codobred",
   "license": "MIT",
