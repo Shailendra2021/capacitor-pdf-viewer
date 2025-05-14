@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadlowebagentur/capacitor-pdf-viewer.git"
+    "url": "git+https://github.com/Shailendra2021/capacitor-pdf-viewer.git"
   },
   "bugs": {
-    "url": "https://github.com/nadlowebagentur/capacitor-pdf-viewer/issues"
+    "url": "https://github.com/Shailendra2021/capacitor-pdf-viewer/issues"
   },
   "keywords": [
     "capacitor",
