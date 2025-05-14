@@ -1,11 +1,11 @@
-# @nadlowebagentur/capacitor-pdf-viewer
+# tlc-capacitor-pdf-viewer
 
 Native PDF viewer
 
 ## Install
 
 ```bash
-npm install @nadlowebagentur/capacitor-pdf-viewer
+npm install tlc-capacitor-pdf-viewer
 npx cap sync
 ```
 
